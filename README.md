@@ -85,6 +85,6 @@
 
 ## 🏆 Achievements
 
-- **TCS CodeVita Season 11 - Global Rank #3247**  
+ **TCS CodeVita Season 11 - Global Rank #3247**  
 
 </div>
