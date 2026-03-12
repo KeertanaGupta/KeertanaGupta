@@ -84,7 +84,14 @@
 ---
 
 ## 🏆 Achievements
-
- **TCS CodeVita Season 11 - Global Rank #3247**  
-
+  
+ **TCS Codevita Season 12 - Global Rank #1865**
+ 
+ **TCS CodeVita Season 11 - Global Rank #3247**
+ 
+ **Officially recognized as Contributor at GSSoC’25**
+ 
+ **Completed 100 Days Coding Challenge CodeXpress 2.0 by ACM**
+ 
+ **Secured 3rd Rank in Block-A-Thon by Systango**
 </div>
