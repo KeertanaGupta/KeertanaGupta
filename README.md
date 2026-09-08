@@ -23,9 +23,6 @@ Focus:
   - Full-Stack Web Development
   - Distributed Systems & Databases
   - Machine Learning
-Currently:
-  - Building ALITA — an offline multimodal RAG platform
-  - Exploring DSA and advanced AI concepts
 ```
 
 📫 Reach me at **keertanagupta@gmail.com**
@@ -35,7 +32,7 @@ Currently:
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,django,mongodb,postgres,mysql,gcp,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,react,nodejs,django,mongodb,fastapi,postgres,mysql,gcp,git,github,postman,vscode,framer" />
 </p>
 
 ---
@@ -109,7 +106,6 @@ Role-based healthcare platform (patient, doctor, admin) with JWT auth, EMR uploa
 <img src="https://raw.githubusercontent.com/KeertanaGupta/KeertanaGupta/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-> 💡 To enable the snake animation, set up the [contribution-snake GitHub Action](https://github.com/Platane/snk) on your profile repo — it needs its own workflow to generate the SVG.
 
 ---
 
@@ -124,18 +120,26 @@ Role-based healthcare platform (patient, doctor, admin) with JWT auth, EMR uploa
 
 ## 🌐 Connect
 
-<p align="center">
-<a href="mailto:keertanagupta@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-<a href="https://www.linkedin.com/in/keertanagupta/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/KeertanaGupta" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
 
+<p align="center">
+
+<a href="mailto:keertanagupta@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/keertanagupta/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/KeertanaGupta/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.instagram.com/keertanagupta/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=KeertanaGupta&style=for-the-badge)
