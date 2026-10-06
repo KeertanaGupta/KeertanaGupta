@@ -95,7 +95,7 @@ Role-based healthcare platform (patient, doctor, admin) with JWT auth, EMR uploa
 ## 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeertanaGupta&theme=react-dark&hide_border=true"/>
+<img src="https://ghchart.rshah.org/61dafb/KeertanaGupta" alt="Keertana Gupta's GitHub contribution chart" width="100%"/>
 </p>
 
 ---
